@@ -225,5 +225,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:57:10.676Z",
     "updatedAt": "2026-03-19T01:57:11.307Z"
+  },
+  "6285590978": {
+    "userID": "6285590978",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:57:13.139Z"
   }
 }
