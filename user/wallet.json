@@ -50,12 +50,13 @@
     "userID": "4020034224",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 3569,
+    "level": 12,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:57:10.322Z"
+    "createdAt": "2026-03-19T01:57:10.322Z",
+    "updatedAt": "2026-03-19T01:57:10.737Z"
   },
   "7791155650": {
     "userID": "7791155650",
@@ -205,11 +206,12 @@
     "userID": "5620740416",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 3964,
+    "level": 13,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:57:10.676Z"
+    "createdAt": "2026-03-19T01:57:10.676Z",
+    "updatedAt": "2026-03-19T01:57:11.307Z"
   }
 }
