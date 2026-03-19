@@ -50,12 +50,13 @@
     "userID": "3846524916",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 1901,
+    "level": 9,
+    "rank": "محارب",
+    "rankEmoji": "⚔️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T02:02:21.242Z"
+    "createdAt": "2026-03-19T02:02:21.242Z",
+    "updatedAt": "2026-03-19T02:02:21.862Z"
   },
   "4020034224": {
     "userID": "4020034224",
