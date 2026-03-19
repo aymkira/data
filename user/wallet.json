@@ -26,11 +26,12 @@
     "userID": "6965112285",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 2187,
+    "level": 10,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:56:01.806Z"
+    "createdAt": "2026-03-19T01:56:01.806Z",
+    "updatedAt": "2026-03-19T01:56:02.343Z"
   }
 }
