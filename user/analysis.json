@@ -251,5 +251,53 @@
       }
     ],
     "updatedAt": "2026-03-19T16:00:57.755Z"
+  },
+  "61580139921634": {
+    "userID": "61580139921634",
+    "createdAt": "2026-03-19T16:19:39.337Z",
+    "name": "Ayman Albakri",
+    "isAdmin": true,
+    "lastSeen": "2026-03-19T16:19:39.337Z",
+    "totalMessages": 1,
+    "confidence": 6,
+    "mbti": "",
+    "darkTraits": [],
+    "kiraStrat": {
+      "tone": "",
+      "avoid": [],
+      "cheer": ""
+    },
+    "interests": [],
+    "hiddenInt": [],
+    "fears": [],
+    "dreams": [],
+    "mood": "جيد",
+    "moodScore": 60,
+    "stress": 20,
+    "mentalNotes": [
+      "شعور بالانفصال"
+    ],
+    "location": "",
+    "lifePeriod": "",
+    "keyFacts": [],
+    "phrases": [],
+    "lastTopics": [
+      "الصوم",
+      "الانفصال"
+    ],
+    "importantPeople": [],
+    "stats": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "moodHistory": [
+      {
+        "date": "2026-03-19T16:19:39.337Z",
+        "mood": "جيد",
+        "score": 60
+      }
+    ],
+    "updatedAt": "2026-03-19T16:19:39.337Z"
   }
 }
