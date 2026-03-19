@@ -83,5 +83,22 @@
         "at": "2026-03-19T01:57:09.768Z"
       }
     ]
+  },
+  "8989113946": {
+    "userID": "8989113946",
+    "banned": true,
+    "reason": "بيانات وهمية",
+    "bannedBy": "TEST_SYSTEM",
+    "bannedAt": "2026-03-19T02:02:32.425Z",
+    "expiresAt": null,
+    "duration": 0,
+    "history": [
+      {
+        "action": "ban",
+        "reason": "بيانات وهمية",
+        "by": "TEST_SYSTEM",
+        "at": "2026-03-19T02:02:32.425Z"
+      }
+    ]
   }
 }
