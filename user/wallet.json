@@ -45,5 +45,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:56:03.547Z",
     "updatedAt": "2026-03-19T01:56:04.122Z"
+  },
+  "6709970144": {
+    "userID": "6709970144",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:56:04.665Z"
   }
 }
