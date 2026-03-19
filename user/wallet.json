@@ -23,6 +23,17 @@
     "createdAt": "2026-03-19T01:56:52.360Z",
     "updatedAt": "2026-03-19T01:56:53.019Z"
   },
+  "1488567324": {
+    "userID": "1488567324",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T02:02:35.472Z"
+  },
   "2016658419": {
     "userID": "2016658419",
     "money": 0,
@@ -345,5 +356,17 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T02:02:33.021Z",
     "updatedAt": "2026-03-19T02:02:33.586Z"
+  },
+  "6840807597": {
+    "userID": "6840807597",
+    "money": 0,
+    "bank": 0,
+    "exp": 759,
+    "level": 6,
+    "rank": "محارب",
+    "rankEmoji": "⚔️",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T02:02:34.268Z",
+    "updatedAt": "2026-03-19T02:02:34.852Z"
   }
 }
