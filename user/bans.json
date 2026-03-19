@@ -1,4 +1,21 @@
 {
+  "1183332797": {
+    "userID": "1183332797",
+    "banned": true,
+    "reason": "اختبار",
+    "bannedBy": "TEST_SYSTEM",
+    "bannedAt": "2026-03-19T02:02:24.909Z",
+    "expiresAt": null,
+    "duration": 0,
+    "history": [
+      {
+        "action": "ban",
+        "reason": "اختبار",
+        "by": "TEST_SYSTEM",
+        "at": "2026-03-19T02:02:24.909Z"
+      }
+    ]
+  },
   "4020034224": {
     "userID": "4020034224",
     "banned": true,
