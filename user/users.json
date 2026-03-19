@@ -4,9 +4,9 @@
     "createdAt": "2026-03-19T02:22:24.186Z",
     "name": "Ayman Albakri",
     "isAdmin": true,
-    "lastSeen": "2026-03-19T14:48:07.886Z",
-    "totalMessages": 3,
-    "confidence": 9,
+    "lastSeen": "2026-03-19T14:58:35.451Z",
+    "totalMessages": 4,
+    "confidence": 10,
     "mbti": "INTJ",
     "darkTraits": [
       "الانتحار",
@@ -93,7 +93,7 @@
     "stats": {
       "positive": 0,
       "negative": 0,
-      "neutral": 3
+      "neutral": 4
     },
     "moodHistory": [
       {
@@ -110,9 +110,12 @@
         "date": "2026-03-19T14:48:07.886Z",
         "mood": "neutral",
         "score": 50
+      },
+      {
+        "date": "2026-03-19T14:58:35.451Z"
       }
     ],
-    "updatedAt": "2026-03-19T14:48:07.886Z"
+    "updatedAt": "2026-03-19T14:58:35.451Z"
   },
   "61577861540407": {
     "userID": "61577861540407",
