@@ -177,5 +177,17 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:57:08.436Z",
     "updatedAt": "2026-03-19T01:57:09.134Z"
+  },
+  "6239620565": {
+    "userID": "6239620565",
+    "money": 0,
+    "bank": 0,
+    "exp": 1584,
+    "level": 8,
+    "rank": "محارب",
+    "rankEmoji": "⚔️",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:57:09.668Z",
+    "updatedAt": "2026-03-19T01:57:10.075Z"
   }
 }
