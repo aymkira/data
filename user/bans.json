@@ -15,5 +15,22 @@
         "at": "2026-03-19T01:56:01.192Z"
       }
     ]
+  },
+  "6965112285": {
+    "userID": "6965112285",
+    "banned": true,
+    "reason": "test data",
+    "bannedBy": "TEST_SYSTEM",
+    "bannedAt": "2026-03-19T01:56:02.936Z",
+    "expiresAt": null,
+    "duration": 0,
+    "history": [
+      {
+        "action": "ban",
+        "reason": "test data",
+        "by": "TEST_SYSTEM",
+        "at": "2026-03-19T01:56:02.937Z"
+      }
+    ]
   }
 }
