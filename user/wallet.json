@@ -86,11 +86,12 @@
     "userID": "7105106690",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 1609,
+    "level": 8,
+    "rank": "محارب",
+    "rankEmoji": "⚔️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:56:53.716Z"
+    "createdAt": "2026-03-19T01:56:53.716Z",
+    "updatedAt": "2026-03-19T01:56:54.290Z"
   }
 }
