@@ -50,11 +50,12 @@
     "userID": "6709970144",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 4297,
+    "level": 14,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:56:04.665Z"
+    "createdAt": "2026-03-19T01:56:04.665Z",
+    "updatedAt": "2026-03-19T01:56:05.245Z"
   }
 }
