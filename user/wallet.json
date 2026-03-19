@@ -10,5 +10,16 @@
     "totalEarned": 34,
     "createdAt": "2026-03-19T03:31:42.638Z",
     "updatedAt": "2026-03-19T03:34:49.692Z"
+  },
+  "61580139921634": {
+    "userID": "61580139921634",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T03:35:27.744Z"
   }
 }
