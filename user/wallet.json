@@ -285,5 +285,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T02:02:22.451Z",
     "updatedAt": "2026-03-19T02:02:23.069Z"
+  },
+  "6914578332": {
+    "userID": "6914578332",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T02:02:25.538Z"
   }
 }
