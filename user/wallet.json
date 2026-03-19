@@ -153,5 +153,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:57:05.495Z",
     "updatedAt": "2026-03-19T01:57:06.074Z"
+  },
+  "7950026390": {
+    "userID": "7950026390",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:57:06.845Z"
   }
 }
