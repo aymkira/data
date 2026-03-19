@@ -338,11 +338,12 @@
     "userID": "9406152894",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 1732,
+    "level": 8,
+    "rank": "محارب",
+    "rankEmoji": "⚔️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T02:02:33.021Z"
+    "createdAt": "2026-03-19T02:02:33.021Z",
+    "updatedAt": "2026-03-19T02:02:33.586Z"
   }
 }
