@@ -46,6 +46,17 @@
     "createdAt": "2026-03-19T01:56:54.871Z",
     "updatedAt": "2026-03-19T01:56:55.699Z"
   },
+  "4020034224": {
+    "userID": "4020034224",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:57:10.322Z"
+  },
   "7791155650": {
     "userID": "7791155650",
     "money": 0,
@@ -189,5 +200,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:57:09.668Z",
     "updatedAt": "2026-03-19T01:57:10.075Z"
+  },
+  "5620740416": {
+    "userID": "5620740416",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:57:10.676Z"
   }
 }
