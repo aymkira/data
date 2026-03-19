@@ -1,0 +1,69 @@
+{
+  "61563843777671": {
+    "userID": "61563843777671",
+    "createdAt": "2026-03-19T15:39:42.293Z",
+    "name": "Nour Bou",
+    "isAdmin": false,
+    "lastSeen": "2026-03-19T15:39:42.293Z",
+    "totalMessages": 1,
+    "confidence": 6,
+    "mbti": "ISTJ",
+    "darkTraits": [
+      "قلق مفرط"
+    ],
+    "kiraStrat": {
+      "tone": "مقلق",
+      "avoid": [
+        "مواقف مرهقة"
+      ],
+      "cheer": [
+        "دعم عاطفي"
+      ]
+    },
+    "interests": [
+      "صحة نفسية",
+      "استرخاء"
+    ],
+    "hiddenInt": [
+      "علاج بالكلام"
+    ],
+    "fears": [
+      "فقدان السيطرة"
+    ],
+    "dreams": [
+      "الاستقرار العاطفي"
+    ],
+    "mood": "حزين",
+    "moodScore": 40,
+    "stress": 60,
+    "mentalNotes": [
+      "تحتاج إلى دعم عاطفي"
+    ],
+    "location": "",
+    "lifePeriod": "",
+    "keyFacts": [
+      "تقلق من خرجها"
+    ],
+    "phrases": [
+      "تقلق خرجوها"
+    ],
+    "lastTopics": [
+      "صحة نفسية",
+      "توتر"
+    ],
+    "importantPeople": [],
+    "stats": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "moodHistory": [
+      {
+        "date": "2026-03-19T15:39:42.293Z",
+        "mood": "حزين",
+        "score": 40
+      }
+    ],
+    "updatedAt": "2026-03-19T15:39:42.293Z"
+  }
+}
