@@ -32,5 +32,22 @@
         "at": "2026-03-19T01:56:02.937Z"
       }
     ]
+  },
+  "9780176672": {
+    "userID": "9780176672",
+    "banned": true,
+    "reason": "test data",
+    "bannedBy": "TEST_SYSTEM",
+    "bannedAt": "2026-03-19T01:57:09.768Z",
+    "expiresAt": null,
+    "duration": 0,
+    "history": [
+      {
+        "action": "ban",
+        "reason": "test data",
+        "by": "TEST_SYSTEM",
+        "at": "2026-03-19T01:57:09.768Z"
+      }
+    ]
   }
 }
