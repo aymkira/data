@@ -26,12 +26,13 @@
     "userID": "3770105774",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 3418,
+    "level": 12,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:56:54.871Z"
+    "createdAt": "2026-03-19T01:56:54.871Z",
+    "updatedAt": "2026-03-19T01:56:55.699Z"
   },
   "7791155650": {
     "userID": "7791155650",
