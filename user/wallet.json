@@ -33,5 +33,16 @@
     "totalEarned": 0,
     "createdAt": "2026-03-19T01:56:01.806Z",
     "updatedAt": "2026-03-19T01:56:02.343Z"
+  },
+  "9655370607": {
+    "userID": "9655370607",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-19T01:56:03.547Z"
   }
 }
