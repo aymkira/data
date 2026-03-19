@@ -158,11 +158,12 @@
     "userID": "7950026390",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 2716,
+    "level": 11,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:57:06.845Z"
+    "createdAt": "2026-03-19T01:57:06.845Z",
+    "updatedAt": "2026-03-19T01:57:07.434Z"
   }
 }
