@@ -1,13 +1,14 @@
 {
   "61584059280197": {
     "userID": "61584059280197",
-    "money": 0,
+    "money": 33,
     "bank": 0,
     "exp": 0,
     "level": 1,
     "rank": "مبتدئ",
     "rankEmoji": "🔰",
-    "totalEarned": 0,
-    "createdAt": "2026-03-19T03:31:42.638Z"
+    "totalEarned": 33,
+    "createdAt": "2026-03-19T03:31:42.638Z",
+    "updatedAt": "2026-03-19T03:31:59.648Z"
   }
 }
