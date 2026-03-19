@@ -242,11 +242,12 @@
     "userID": "7556719860",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 4210,
+    "level": 13,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:57:14.410Z"
+    "createdAt": "2026-03-19T01:57:14.410Z",
+    "updatedAt": "2026-03-19T01:57:15.006Z"
   }
 }
