@@ -302,11 +302,12 @@
     "userID": "8358565024",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 2501,
+    "level": 10,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T02:02:26.722Z"
+    "createdAt": "2026-03-19T02:02:26.722Z",
+    "updatedAt": "2026-03-19T02:02:27.320Z"
   }
 }
