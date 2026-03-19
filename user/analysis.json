@@ -270,31 +270,43 @@
     "createdAt": "2026-03-19T16:19:39.337Z",
     "name": "Ayman Albakri",
     "isAdmin": true,
-    "lastSeen": "2026-03-19T16:19:39.337Z",
-    "totalMessages": 1,
-    "confidence": 6,
+    "lastSeen": "2026-03-19T16:20:38.563Z",
+    "totalMessages": 2,
+    "confidence": 7,
     "mbti": "",
     "darkTraits": [],
     "kiraStrat": {
       "tone": "",
       "avoid": [],
-      "cheer": ""
+      "cheer": []
     },
     "interests": [],
     "hiddenInt": [],
-    "fears": [],
-    "dreams": [],
-    "mood": "جيد",
-    "moodScore": 60,
-    "stress": 20,
+    "fears": [
+      "المستقبل",
+      "العزلة"
+    ],
+    "dreams": [
+      "التغيير",
+      "الدعم"
+    ],
+    "mood": "سيئ",
+    "moodScore": 20,
+    "stress": 80,
     "mentalNotes": [
-      "شعور بالانفصال"
+      "شعور بالانفصال",
+      "الوحدة",
+      "الاكتئاب"
     ],
     "location": "",
     "lifePeriod": "",
-    "keyFacts": [],
+    "keyFacts": [
+      "تغير مزاج: 60→20"
+    ],
     "phrases": [],
     "lastTopics": [
+      "الوحدة",
+      "الاكتئاب",
       "الصوم",
       "الانفصال"
     ],
@@ -302,15 +314,20 @@
     "stats": {
       "positive": 0,
       "negative": 0,
-      "neutral": 1
+      "neutral": 2
     },
     "moodHistory": [
       {
         "date": "2026-03-19T16:19:39.337Z",
         "mood": "جيد",
         "score": 60
+      },
+      {
+        "date": "2026-03-19T16:20:38.563Z",
+        "mood": "سيئ",
+        "score": 20
       }
     ],
-    "updatedAt": "2026-03-19T16:19:39.337Z"
+    "updatedAt": "2026-03-19T16:20:38.563Z"
   }
 }
