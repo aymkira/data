@@ -62,11 +62,12 @@
     "userID": "5205831502",
     "money": 0,
     "bank": 0,
-    "exp": 0,
-    "level": 1,
-    "rank": "مبتدئ",
-    "rankEmoji": "🔰",
+    "exp": 2400,
+    "level": 10,
+    "rank": "فارس",
+    "rankEmoji": "🛡️",
     "totalEarned": 0,
-    "createdAt": "2026-03-19T01:56:05.841Z"
+    "createdAt": "2026-03-19T01:56:05.841Z",
+    "updatedAt": "2026-03-19T01:56:06.430Z"
   }
 }
