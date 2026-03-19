@@ -1,4 +1,21 @@
 {
+  "4020034224": {
+    "userID": "4020034224",
+    "banned": true,
+    "reason": "بيانات وهمية",
+    "bannedBy": "TEST_SYSTEM",
+    "bannedAt": "2026-03-19T01:57:11.397Z",
+    "expiresAt": null,
+    "duration": 0,
+    "history": [
+      {
+        "action": "ban",
+        "reason": "بيانات وهمية",
+        "by": "TEST_SYSTEM",
+        "at": "2026-03-19T01:57:11.397Z"
+      }
+    ]
+  },
   "7791155650": {
     "userID": "7791155650",
     "banned": true,
