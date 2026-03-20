@@ -254,5 +254,16 @@
     "rankEmoji": "🔰",
     "totalEarned": 0,
     "createdAt": "2026-03-20T13:22:49.785Z"
+  },
+  "61569952598381": {
+    "userID": "61569952598381",
+    "money": 0,
+    "bank": 0,
+    "exp": 0,
+    "level": 1,
+    "rank": "مبتدئ",
+    "rankEmoji": "🔰",
+    "totalEarned": 0,
+    "createdAt": "2026-03-20T13:23:47.074Z"
   }
 }
