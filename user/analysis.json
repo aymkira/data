@@ -2276,24 +2276,21 @@
     "createdAt": "2026-03-20T13:18:06.553Z",
     "name": "Mohamed Abdealslam",
     "isAdmin": false,
-    "lastSeen": "2026-03-20T13:18:06.553Z",
-    "totalMessages": 1,
-    "confidence": 6,
+    "lastSeen": "2026-03-20T13:19:08.188Z",
+    "totalMessages": 2,
+    "confidence": 7,
     "mbti": "ESTP",
     "darkTraits": [
       "العدوانية",
       "الغضب"
     ],
     "kiraStrat": {
-      "tone": "صعب",
+      "tone": "الاسترخاء",
       "avoid": [
         "الخسارة",
         "الضيم"
       ],
-      "cheer": [
-        "النصر",
-        "الاستقلال"
-      ]
+      "cheer": "خذ راحتك"
     },
     "interests": [
       "السياسة",
@@ -2311,25 +2308,30 @@
       "الاستقلال",
       "الحرية"
     ],
-    "mood": "غاضب",
-    "moodScore": 20,
-    "stress": 60,
+    "mood": "الاسترخاء",
+    "moodScore": 60,
+    "stress": 20,
     "mentalNotes": [
       "شخصية قوية",
-      "مستعد للصراع"
+      "مستعد للصراع",
+      "تحسين التوازن النفسي"
     ],
     "location": "مصر",
     "lifePeriod": "شباب",
     "keyFacts": [
       "يملك بيتًا",
       "يحترم حقوقه",
-      "تغير مزاج: undefined→20"
+      "تغير مزاج: undefined→20",
+      "الاهتمام بالسياسة والاقتصاد",
+      "تغير مزاج: 20→60"
     ],
     "phrases": [
       "خليه ياخذه بالاخير",
-      "انا لا اهتم"
+      "انا لا اهتم",
+      "خذ راحتك"
     ],
     "lastTopics": [
+      "الاسترخاء",
       "الجروبات",
       "الملكية",
       "الحقوق"
@@ -2339,20 +2341,30 @@
         "name": "الوالد",
         "rel": "صعب",
         "feel": "الغضب"
+      },
+      {
+        "name": "Mohamed Abdealslam",
+        "rel": "المرسل",
+        "feel": "الاسترخاء"
       }
     ],
     "stats": {
       "positive": 0,
       "negative": 0,
-      "neutral": 1
+      "neutral": 2
     },
     "moodHistory": [
       {
         "date": "2026-03-20T13:18:06.553Z",
         "mood": "غاضب",
         "score": 20
+      },
+      {
+        "date": "2026-03-20T13:19:08.188Z",
+        "mood": "الاسترخاء",
+        "score": 60
       }
     ],
-    "updatedAt": "2026-03-20T13:18:06.554Z"
+    "updatedAt": "2026-03-20T13:19:08.188Z"
   }
 }
