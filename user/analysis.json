@@ -2223,5 +2223,89 @@
       }
     ],
     "updatedAt": "2026-03-20T13:16:53.323Z"
+  },
+  "100034640554267": {
+    "userID": "100034640554267",
+    "createdAt": "2026-03-20T13:18:06.553Z",
+    "name": "Mohamed Abdealslam",
+    "isAdmin": false,
+    "lastSeen": "2026-03-20T13:18:06.553Z",
+    "totalMessages": 1,
+    "confidence": 6,
+    "mbti": "ESTP",
+    "darkTraits": [
+      "العدوانية",
+      "الغضب"
+    ],
+    "kiraStrat": {
+      "tone": "صعب",
+      "avoid": [
+        "الخسارة",
+        "الضيم"
+      ],
+      "cheer": [
+        "النصر",
+        "الاستقلال"
+      ]
+    },
+    "interests": [
+      "السياسة",
+      "الاقتصاد"
+    ],
+    "hiddenInt": [
+      "السلطة",
+      "السيطرة"
+    ],
+    "fears": [
+      "الخسارة",
+      "الضيم"
+    ],
+    "dreams": [
+      "الاستقلال",
+      "الحرية"
+    ],
+    "mood": "غاضب",
+    "moodScore": 20,
+    "stress": 60,
+    "mentalNotes": [
+      "شخصية قوية",
+      "مستعد للصراع"
+    ],
+    "location": "مصر",
+    "lifePeriod": "شباب",
+    "keyFacts": [
+      "يملك بيتًا",
+      "يحترم حقوقه",
+      "تغير مزاج: undefined→20"
+    ],
+    "phrases": [
+      "خليه ياخذه بالاخير",
+      "انا لا اهتم"
+    ],
+    "lastTopics": [
+      "الجروبات",
+      "الملكية",
+      "الحقوق"
+    ],
+    "importantPeople": [
+      {
+        "name": "الوالد",
+        "rel": "صعب",
+        "feel": "الغضب"
+      }
+    ],
+    "stats": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "moodHistory": [
+      {
+        "date": "2026-03-20T13:18:06.553Z",
+        "mood": "غاضب",
+        "score": 20
+      }
+    ],
+    "updatedAt": "2026-03-20T13:18:06.554Z"
   }
 }
